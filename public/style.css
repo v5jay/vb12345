@@ -10,7 +10,7 @@
  }
 
 html {
-  background: url('public/bkgrnd.jpg') no-repeat center fixed;
+  background: url('bkgrnd.jpg') no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
